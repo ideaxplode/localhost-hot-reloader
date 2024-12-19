@@ -1,6 +1,6 @@
-# Localhost Auto-Reloader
+# Localhost Hot Reloader
 
-Automatically reloads your localhost tabs in Chrome when they gain focus, easing your web development workflow.
+Automatically reloads your **localhost** tabs in Chrome when they gain focus, easing your web development workflow.
 
 NOTE: This is a Chrome extension.
 
@@ -14,13 +14,14 @@ NOTE: This is a Chrome extension.
 - **Supports Multiple URL Patterns**: Works with `http://localhost`, `https://localhost`, `http://127.0.0.1`, and `https://127.0.0.1`, including any port or subpath.
 - **Toggle Reloading On/Off**: Easily enable or disable the reloading behavior using the toolbar button or keyboard shortcut.
 - **Keyboard Shortcut**: Use `Ctrl+Shift+R` (Windows/Linux) or `Command+Shift+R` (macOS) to toggle reloading.
-- **Debounce Mechanism**: Prevents multiple reloads from overlapping events with a configurable cooldown period.
+- **Debounce Mechanism**: Prevents multiple reloads from overlapping events with a cooldown period.
 
 ## Installation
 
-Since this extension is still in Beta, you need to manually install it in Chrome by following the below steps:
+Since this extension is in beta, you need to manually install it in Chrome:
 
-1. Download this repository and extract the files to a folder
-2. Open Chrome and navigate to **chrome://extensions/**
-3. Enable **Developer mode** by toggling the switch in the upper-right corner
-4. Click **Load unpacked** and select the directory where you cloned the repository
+1. Download this repository by clicking in this page's `<> Code` (green button) --> `Download ZIP`.
+2. Extract the ZIP file to some location in your computer.
+2. Open Chrome and navigate to **chrome://extensions/**.
+3. Enable **Developer mode** by toggling the switch in the upper-right corner.
+4. Click **Load unpacked** and select the extracted folder.
