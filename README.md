@@ -20,8 +20,8 @@ NOTE: This is a Chrome extension.
 
 Since this extension is in beta, you need to manually install it in Chrome:
 
-1. Download this repository by clicking in this page's `<> Code` (green button) --> `Download ZIP`.
-2. Extract the ZIP file to some location in your computer.
-2. Open Chrome and navigate to **chrome://extensions/**.
-3. Enable **Developer mode** by toggling the switch in the upper-right corner.
-4. Click **Load unpacked** and select the extracted folder.
+1. Download this repository by clicking in this page's  `<> Code` (green button) --> `Download ZIP`
+2. Extract the ZIP file to some location in your computer
+2. Open Chrome and navigate to **chrome://extensions/**
+3. Enable **Developer mode** by toggling the switch in the upper-right corner
+4. Click **Load unpacked** and select the extracted folder
